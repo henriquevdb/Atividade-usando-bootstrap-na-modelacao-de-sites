@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #16640f;
+    height: 120px;
+}
+.container-fluid{
+    background-color: #8eee85;
+    height: 60px;
+}
+.row{
+    background-color: #92106b;
+    height: 30px;
+}
+.cor1{
+    background-color: #c44d16;
+}
+.cor2{
+    background-color: #2216c4;
+}
+.cor3{
+    background-color: #c41616;
+}
+.cor4{
+    background-color: #c41690;
+}
+.cor5{
+    background-color: #2ac416;
+}
+.cor6{
+    background-color: #858a84;
+}
+.cor7{
+    background-color: #0f4e06;
+}
+.cor8{
+    background-color: #c1c416;
+}
+.cor9{
+    background-color: #320538;
+}
+.cor10{
+    background-color: #502d05;
+}
+.cor11{
+    background-color: #0e8369;
+}
+.cor12{
+    background-color: #b96981;
+}
+.cor13{
+    background-color: #a1e0a4;
+}
+.cor14{
+    background-color: #14c8e7;
+}
+.cor15{
+    background-color: #883970;
+}
